@@ -1,1 +1,1 @@
-print("I мукн love Elen")
+print("I very love Elen")
